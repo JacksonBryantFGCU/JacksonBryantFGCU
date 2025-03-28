@@ -14,6 +14,6 @@ https://www.sunstonepickleball.com/
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacksonBryant&show_icons=true&rank_icon=github&locale=en" alt="JacksonBryant" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBryant&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacksonBryantFGCU&show_icons=true&rank_icon=github&locale=en" alt="JacksonBryant" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBryantFGCU&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" />
 </p>
