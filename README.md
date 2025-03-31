@@ -18,4 +18,4 @@ https://www.sunstonepickleball.com/
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBryantFGCU&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
-![snake animation](https://github.com/<seu JacksonBryantFGCU>/<seu JacksonBryantFGCU>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
