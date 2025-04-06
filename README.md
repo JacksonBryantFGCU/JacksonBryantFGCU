@@ -3,7 +3,6 @@ I am a Sophomore at Florida Gulf Coast University studying Software Engineering.
 
 Wbsite Links:
 https://jacksonbryantportfolio.netlify.app/
-https://www.sunstonepickleball.com/
 
 
 ## 🌐 Socials:
