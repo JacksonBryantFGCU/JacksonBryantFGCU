@@ -3,7 +3,7 @@ I am a Sophomore at Florida Gulf Coast University studying Software Engineering.
 
 ## 🌐 Website Links:
 (https://jacksonbryantportfolio.netlify.app/)
-[![LinkedIn](https://linkedin.com/in/jacksonbryant-dev) 
+[LinkedIn](https://linkedin.com/in/jacksonbryant-dev) 
 
 ## 🌐 Certifications:
 FreeCodeCamp: [Scientific Computing with Python](https://www.freecodecamp.org/certification/JacksonBryantFGCU/scientific-computing-with-python-v7)
