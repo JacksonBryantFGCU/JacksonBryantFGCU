@@ -1,11 +1,8 @@
 # 💫 About Me:
 I am a Sophomore at Florida Gulf Coast University studying Software Engineering. I want to learn more about React.js and Next.js development. I have built three projects including a portfolio project, Sunstone Pickleball Website, and Upgrades by Taylor Website. I am looking forward to creating more projects.  
 
-Wbsite Links:
-https://jacksonbryantportfolio.netlify.app/
-
-
-## 🌐 Socials:
+## 🌐 Website Links:
+https://jacksonbryantportfolio.netlify.app/ <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacksonbryant-dev) 
 
 ## 🌐 Certifications:
