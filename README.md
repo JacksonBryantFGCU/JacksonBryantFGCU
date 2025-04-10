@@ -3,7 +3,7 @@ I am a Sophomore at Florida Gulf Coast University studying Software Engineering.
 
 ## 🌐 Website Links
 
-- 🌍 [Portfolio Website](https://jacksonbryantportfolio.netlify.app/)
+- 🌍 [Portfolio Website](https://www.jacksonbryant.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/jacksonbryant-dev)
 
 ## 🌐 Certifications
