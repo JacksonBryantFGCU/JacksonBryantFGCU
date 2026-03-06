@@ -1,6 +1,5 @@
 # About Me:
-I am a Sophomore at Florida Gulf Coast University studying Software Engineering. I want to learn more about React.js and Next.js development. I have built three projects including a portfolio project, Sunstone Pickleball Website, and Upgrades by Taylor Website. I am looking forward to creating more projects.  
-
+I am a Junior at Florida Gulf Coast University studying Software Engineering. I want to learn more about React.js and Next.js development. I have built multiple projects including and in the following areas: Portfolio, Claritron, Machine Learning, Zonta Club Website, etc. I am building more projects and expanding my horizon in different fields.
 ## Website Links
 
 - [Portfolio Website](https://www.jacksonbryant.com/)
