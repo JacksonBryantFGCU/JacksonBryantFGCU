@@ -1,15 +1,92 @@
-# About Me:
-I am a Junior at Florida Gulf Coast University studying Software Engineering. I want to learn more about React.js and Next.js development. I have built multiple projects including and in the following areas: Portfolio, Claritron, Machine Learning, Zonta Club Website, etc. I am building more projects and expanding my horizon in different fields.
-## Website Links
+<h1 align="center">Hi, I'm Jackson Bryant</h1>
 
-- [Portfolio Website](https://www.jacksonbryant.com/)
-- [LinkedIn](https://linkedin.com/in/jacksonbryant-dev)
+<p align="center">
+  <b>Software Engineering Student @ Florida Gulf Coast University · Freelance Web Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://www.jacksonbryant.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/jacksonbryant-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jackbryant5589@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=JacksonBryantFGCU&style=for-the-badge&color=0A66C2" alt="Profile views"/>
+</p>
+
+---
+
+## About Me
+
+I'm a Junior studying **Software Engineering** at Florida Gulf Coast University and a **freelance web developer** building sites and web apps for local clients and small businesses. I focus on clean, responsive front-ends and I'm deepening my expertise in **React.js** and **Next.js**.
+
+- Pursuing a B.S. in Software Engineering at FGCU
+- ~2 years building real projects for clients in my community
+- Currently leveling up with **React.js**, **Next.js**, and full-stack development
+- Most comfortable working in **TypeScript**
+- Reach me at **jackbryant5589@gmail.com**
+
+> **Open to freelance web development work** — websites and web apps for small businesses and individuals.
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| **ACE.AI** | Mock interview platform for software engineers with behavioral and technical questions and voice interaction. | React · TypeScript · Node · Supabase · Tailwind |
+| **Portfolio Website** | My personal portfolio showcasing projects, skills, and contact info. | React · TailwindCSS · Vercel |
+| **Zonta Club Website** | A website built for the Zonta Club to support their community work. | React · TypeScript · Node · Sanity CMS |
+
+<!-- Swap in real repo links above, e.g. [**ACE.AI**](https://github.com/JacksonBryantFGCU/ace-ai) -->
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ## Certifications
 
-- [Scientific Computing with Python – freeCodeCamp](https://www.freecodecamp.org/certification/JacksonBryantFGCU/scientific-computing-with-python-v7)
-- [OpenSSF Scorecard Certification – The Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c66a3371-36ba-4d2a-aac6-dc84958067fb-jackson-l-a652b2f3-a2e9-47ab-9614-a0e97f8e9d72-certificate.pdf)
+- **Scientific Computing with Python** — freeCodeCamp
+- **OpenSSF Scorecard Certification** — The Linux Foundation
 
+---
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonBryantFGCU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Jackson's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBryantFGCU&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacksonBryantFGCU&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by.</i></p>
