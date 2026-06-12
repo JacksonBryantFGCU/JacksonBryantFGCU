@@ -79,7 +79,7 @@ I'm a Junior studying **Software Engineering** at Florida Gulf Coast University 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonBryantFGCU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Jackson's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBryantFGCU&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonBryantFGCU&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&exclude_repo=Machine-Learning-Project" alt="Top languages"/>
 </p>
 
 <p align="center">
