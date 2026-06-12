@@ -36,7 +36,6 @@ I'm a Junior studying **Software Engineering** at Florida Gulf Coast University 
 | **Zonta Club Website** | A website built for the Zonta Club to support their community work. | React · TypeScript · Node · Sanity CMS |
 
 <!-- Swap in real repo links above, e.g. [**ACE.AI**](https://github.com/JacksonBryantFGCU/ace-ai) -->
-
 ---
 
 ## Tech Stack
